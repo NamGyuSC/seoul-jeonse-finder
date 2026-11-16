@@ -2,3 +2,7 @@
 data/raw/
 __pycache__/
 .DS_Store
+
+# 배포 과정 정리 문서 (개인용, 공개하지 않음)
+github-deploy-guide.html
+github-pages-easy-guide.html

@@ -1,0 +1,4 @@
+# 원본 CSV(27MB)는 저장소에 올리지 않음 — scripts/build_data.py 로 data/jeonse.json 생성
+data/raw/
+__pycache__/
+.DS_Store
